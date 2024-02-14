@@ -7,7 +7,7 @@ Umím anglicky na úrovni **B1-B2** a mám **pasivní** znalost němčiny. A sam
 ## **Co se týká IT**
 Tak jsem se čerstvě naučil **HTML**, **CSS** a prošel jsem si třídenní kurz úvodu do **Python**, kde krom Python byl věnován prostor i **Streamlitu** a **Githubu**.
 
-- [x] Od 10.2.2024 Se učím Github na vlastní pěst.
+- [x] Od 10.2.2024 se učím Github na vlastní pěst.
 
 ## **Koníčky 🐴**
 - Dřív jsem hrál **hokej 🏒** za Mostecké lvi 🦁, ale nyní již hraji pouze rekreačně.
