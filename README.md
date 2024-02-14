@@ -33,8 +33,8 @@ Můžete mě kontaktovat na **wozni@seznam.cz**
 
 </details>
 
-- [] Task list
-- [] Task 2
+- [ ] Task list
+- [ ] Task 2
 
 ---
 >Společně jsme nejsilnější.
