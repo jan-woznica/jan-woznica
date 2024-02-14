@@ -22,8 +22,13 @@ Můžete mě kontaktovat na **wozni@seznam.cz**
 
 ![Obrázek na upoutání:](https://miro.medium.com/v2/resize:fit:1400/1*l8vz-id102YkiqqUYK_zaA.jpeg).
 
+<details open>
+<summary>My top THINGS-TO-RANK</summary>
+
 | Rank | THING-TO-RANK |
 |-----:|---------------|
 |     1| Python        |
 |     2| CSS           |
 |     3| HTML          |
+
+</details>
