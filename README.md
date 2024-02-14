@@ -8,9 +8,9 @@ Umím anglicky na úrovni **B1-B2** a mám **pasivní** znalost němčiny. A sam
 Tak jsem se čerstvě naučil **HTML**, **CSS** a prošel jsem si třídenní kurz úvodu do **Python**, kde krom Python byl věnován prostor i **Streamlitu** a **Githubu**.
 
 ## **Koníčky 🐴**
-Dřív jsem hrál **hokej 🏒** za Mostecké lvi 🦁, ale nyní již hraji pouze rekreačně.
-Na střední jsem chodil do **debatního klubu** 🗣 a zůčastnil jsem se například `Přažského studentského summitu`.
-Ve čtvrtém ročníku jsem také začal navštěvovat ZUŠ Most, kde jsem se snažil i rozjívet po **umělecké stránce** ✏.
+- Dřív jsem hrál **hokej 🏒** za Mostecké lvi 🦁, ale nyní již hraji pouze rekreačně.
+- Na střední jsem chodil do **debatního klubu** 🗣 a zůčastnil jsem se například `Přažského studentského summitu`.
+- Ve čtvrtém ročníku jsem také začal navštěvovat ZUŠ Most, kde jsem se snažil i rozjívet po **umělecké stránce** ✏.
 
 Navíc mám **dva psy** 🐶🐶, takže i s nimi trávím docela dost času. 
 
