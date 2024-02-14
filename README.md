@@ -32,3 +32,8 @@ Můžete mě kontaktovat na **wozni@seznam.cz**
 |     3| HTML          |
 
 </details>
+
+
+---
+>Společně jsme nejsilnější.
+- To jsem si teď vymyslel
