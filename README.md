@@ -33,9 +33,6 @@ Můžete mě kontaktovat na **wozni@seznam.cz**
 
 </details>
 
-- [ ] Task list
-- [ ] Task 2
-
 ---
 >Společně jsme nejsilnější.
 - To jsem si teď vymyslel.
