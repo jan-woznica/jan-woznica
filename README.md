@@ -16,3 +16,5 @@ Navíc mám **dva psy** 🐶🐶, takže i s nimi trávím docela dost času.
 
 # **V případě dalších dotazů:**
 Můžete mě kontaktovat na **wozni@seznam.cz**
+
+[Obrázek na upoutání:](https://miro.medium.com/v2/resize:fit:1400/1*l8vz-id102YkiqqUYK_zaA.jpeg).
